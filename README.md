@@ -23,7 +23,11 @@ The [https://github.com/merteygi/EqiupmentInfoExe/blob/main/main.py](https://git
 ![Screenshot](NL.jpg)
 ## Germany
 ![Screenshot](DE.png)
-
 ## Türkiye
 ![Screenshot](TR.png)
 
+
+![Screenshot](all_holiday_count.png)
+![Screenshot](all_weekday_count.png)
+![Screenshot](yearly_median_all_countries.png)
+![Screenshot](monthly_median_all_countries.png)
