@@ -20,10 +20,10 @@ The [https://github.com/merteygi/EqiupmentInfoExe/blob/main/main.py](https://git
 * Efficency is the rate of total number of 'IS_WEEKDAY' divided by total number of 'TOTAL_HOLIDAY' within the desired period. 
 
 ## Netherlands
-![Screenshot](NL.PNG)
+![Screenshot](NL.jpg)
 ## Germany
-![Screenshot](DE.PNG)
+![Screenshot](DE.png)
 
 ## Türkiye
-![Screenshot](DE.PNG)
+![Screenshot](TR.png)
 
